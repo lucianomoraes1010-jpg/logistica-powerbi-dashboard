@@ -1,2 +1,1 @@
-# logistica-powerbi-dashboard
-Projeto de análise de custos e indicadores logísticos desenvolvido com Power BI.
+Logistics Power BI Dashboard
